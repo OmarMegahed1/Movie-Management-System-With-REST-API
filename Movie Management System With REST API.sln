@@ -1,0 +1,109 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36221.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Movies.Api", "D:\Courses\Courses\REST APIs - Dometrain\code\Section recap_9.13\rest-api-course-final-master\Movie Management System With REST API (Controllers)\Movies.Api\Movies.Api.csproj", "{30FE7366-1B16-DA8D-60AE-0292BB4C3F05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Movies.Api.Sdk", "D:\Courses\Courses\REST APIs - Dometrain\code\Section recap_9.13\rest-api-course-final-master\Movie Management System With REST API (Controllers)\Movies.Api.Sdk\Movies.Api.Sdk.csproj", "{17103233-C33F-9B53-DAEB-59C7A6C84A28}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Movies.Api.Sdk.Consumer", "D:\Courses\Courses\REST APIs - Dometrain\code\Section recap_9.13\rest-api-course-final-master\Movie Management System With REST API (Controllers)\Movies.Api.Sdk.Consumer\Movies.Api.Sdk.Consumer.csproj", "{9EAEAEC9-8F1E-9F9E-B8C1-90FDF98AB301}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Movies.Application", "D:\Courses\Courses\REST APIs - Dometrain\code\Section recap_9.13\rest-api-course-final-master\Movie Management System With REST API (Controllers)\Movies.Application\Movies.Application.csproj", "{83C6C0AD-2BCC-7E02-EDC0-F925A2D5AE8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Movies.Contracts", "D:\Courses\Courses\REST APIs - Dometrain\code\Section recap_9.13\rest-api-course-final-master\Movie Management System With REST API (Controllers)\Movies.Contracts\Movies.Contracts.csproj", "{D6064232-EF88-830D-461A-97CC0626A538}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Movie Management System With REST API (Controllers)", "Movie Management System With REST API (Controllers)", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Movies.Api", "D:\Courses\Courses\REST APIs - Dometrain\code\Section recap_9.13\rest-api-course-final-master\Movie Management System With REST API (Minimal APIs)\Movies.Api\Movies.Api.csproj", "{4EE2C090-FB12-0390-C829-5384D2C991ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Movies.Api.Sdk", "D:\Courses\Courses\REST APIs - Dometrain\code\Section recap_9.13\rest-api-course-final-master\Movie Management System With REST API (Minimal APIs)\Movies.Api.Sdk\Movies.Api.Sdk.csproj", "{E3205293-998B-245C-4BD8-430A58D44CD3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Movies.Api.Sdk.Consumer", "D:\Courses\Courses\REST APIs - Dometrain\code\Section recap_9.13\rest-api-course-final-master\Movie Management System With REST API (Minimal APIs)\Movies.Api.Sdk.Consumer\Movies.Api.Sdk.Consumer.csproj", "{8CB8D026-15E3-3358-E930-4B0F2E9ABB8D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Movies.Application", "D:\Courses\Courses\REST APIs - Dometrain\code\Section recap_9.13\rest-api-course-final-master\Movie Management System With REST API (Minimal APIs)\Movies.Application\Movies.Application.csproj", "{1B7D3329-D933-11AE-5C70-45E06ADB8ED5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Movies.Contracts", "D:\Courses\Courses\REST APIs - Dometrain\code\Section recap_9.13\rest-api-course-final-master\Movie Management System With REST API (Minimal APIs)\Movies.Contracts\Movies.Contracts.csproj", "{A6CE7F98-E979-CC0B-1741-DD1C15B44AF0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Movie Management System With REST API (Minimal APIs)", "Movie Management System With REST API (Minimal APIs)", "{0FFA2841-52D4-4734-81D5-DFB8F5DD643A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Identity.Api", "D:\Courses\Courses\REST APIs - Dometrain\code\Section recap_9.13\rest-api-course-final-master\Helpers\Identity.Api\Identity.Api.csproj", "{5670B574-A89A-71F7-C522-36E3FAA1E8DB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Helpers", "Helpers", "{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}"
+	ProjectSection(SolutionItems) = preProject
+		D:\Courses\Courses\REST APIs - Dometrain\code\Section recap_9.13\rest-api-course-final-master\Helpers\APIs.postman_collection.json = D:\Courses\Courses\REST APIs - Dometrain\code\Section recap_9.13\rest-api-course-final-master\Helpers\APIs.postman_collection.json
+		D:\Courses\Courses\REST APIs - Dometrain\code\Section recap_9.13\rest-api-course-final-master\Helpers\Helpers.sln = D:\Courses\Courses\REST APIs - Dometrain\code\Section recap_9.13\rest-api-course-final-master\Helpers\Helpers.sln
+		D:\Courses\Courses\REST APIs - Dometrain\code\Section recap_9.13\rest-api-course-final-master\Helpers\movies.json = D:\Courses\Courses\REST APIs - Dometrain\code\Section recap_9.13\rest-api-course-final-master\Helpers\movies.json
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30FE7366-1B16-DA8D-60AE-0292BB4C3F05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30FE7366-1B16-DA8D-60AE-0292BB4C3F05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30FE7366-1B16-DA8D-60AE-0292BB4C3F05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30FE7366-1B16-DA8D-60AE-0292BB4C3F05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17103233-C33F-9B53-DAEB-59C7A6C84A28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17103233-C33F-9B53-DAEB-59C7A6C84A28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17103233-C33F-9B53-DAEB-59C7A6C84A28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17103233-C33F-9B53-DAEB-59C7A6C84A28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EAEAEC9-8F1E-9F9E-B8C1-90FDF98AB301}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EAEAEC9-8F1E-9F9E-B8C1-90FDF98AB301}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EAEAEC9-8F1E-9F9E-B8C1-90FDF98AB301}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EAEAEC9-8F1E-9F9E-B8C1-90FDF98AB301}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83C6C0AD-2BCC-7E02-EDC0-F925A2D5AE8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83C6C0AD-2BCC-7E02-EDC0-F925A2D5AE8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83C6C0AD-2BCC-7E02-EDC0-F925A2D5AE8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83C6C0AD-2BCC-7E02-EDC0-F925A2D5AE8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6064232-EF88-830D-461A-97CC0626A538}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6064232-EF88-830D-461A-97CC0626A538}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6064232-EF88-830D-461A-97CC0626A538}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6064232-EF88-830D-461A-97CC0626A538}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EE2C090-FB12-0390-C829-5384D2C991ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EE2C090-FB12-0390-C829-5384D2C991ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EE2C090-FB12-0390-C829-5384D2C991ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EE2C090-FB12-0390-C829-5384D2C991ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3205293-998B-245C-4BD8-430A58D44CD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3205293-998B-245C-4BD8-430A58D44CD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3205293-998B-245C-4BD8-430A58D44CD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3205293-998B-245C-4BD8-430A58D44CD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CB8D026-15E3-3358-E930-4B0F2E9ABB8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CB8D026-15E3-3358-E930-4B0F2E9ABB8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CB8D026-15E3-3358-E930-4B0F2E9ABB8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CB8D026-15E3-3358-E930-4B0F2E9ABB8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B7D3329-D933-11AE-5C70-45E06ADB8ED5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B7D3329-D933-11AE-5C70-45E06ADB8ED5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B7D3329-D933-11AE-5C70-45E06ADB8ED5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B7D3329-D933-11AE-5C70-45E06ADB8ED5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6CE7F98-E979-CC0B-1741-DD1C15B44AF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6CE7F98-E979-CC0B-1741-DD1C15B44AF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6CE7F98-E979-CC0B-1741-DD1C15B44AF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6CE7F98-E979-CC0B-1741-DD1C15B44AF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5670B574-A89A-71F7-C522-36E3FAA1E8DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5670B574-A89A-71F7-C522-36E3FAA1E8DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5670B574-A89A-71F7-C522-36E3FAA1E8DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5670B574-A89A-71F7-C522-36E3FAA1E8DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{30FE7366-1B16-DA8D-60AE-0292BB4C3F05} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{17103233-C33F-9B53-DAEB-59C7A6C84A28} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{9EAEAEC9-8F1E-9F9E-B8C1-90FDF98AB301} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{83C6C0AD-2BCC-7E02-EDC0-F925A2D5AE8F} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{D6064232-EF88-830D-461A-97CC0626A538} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{4EE2C090-FB12-0390-C829-5384D2C991ED} = {0FFA2841-52D4-4734-81D5-DFB8F5DD643A}
+		{E3205293-998B-245C-4BD8-430A58D44CD3} = {0FFA2841-52D4-4734-81D5-DFB8F5DD643A}
+		{8CB8D026-15E3-3358-E930-4B0F2E9ABB8D} = {0FFA2841-52D4-4734-81D5-DFB8F5DD643A}
+		{1B7D3329-D933-11AE-5C70-45E06ADB8ED5} = {0FFA2841-52D4-4734-81D5-DFB8F5DD643A}
+		{A6CE7F98-E979-CC0B-1741-DD1C15B44AF0} = {0FFA2841-52D4-4734-81D5-DFB8F5DD643A}
+		{5670B574-A89A-71F7-C522-36E3FAA1E8DB} = {8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9741F7B1-F933-48D9-B6B9-03D2D04A414C}
+	EndGlobalSection
+EndGlobal
