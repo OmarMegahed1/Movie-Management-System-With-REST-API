@@ -2,6 +2,8 @@
 
 ## Description
 
+Building Movie Management REST API from scratch, starting with basic CRUD operations and evolving into a sophisticated, enterprise-grade system with advanced features.
+
 This project is a RESTful API developed with .NET Core, designed to manage movie data efficiently. It supports creating, reading, updating, and deleting movies, as well as handling user ratings. The API incorporates modern practices such as authentication, API versioning, and performance optimization, making it a robust and scalable solution. Additionally, a client SDK built with Refit provides a type-safe interface for consuming the API in .NET applications.
 
 ## Features
@@ -13,16 +15,6 @@ This project is a RESTful API developed with .NET Core, designed to manage movie
 - **Output Caching**: Enhance performance by caching frequently accessed data, reducing server load.
 - **Swagger Documentation**: Provide interactive API documentation for easy exploration and testing.
 - **Client SDK**: Offer a type-safe SDK built with Refit for seamless API consumption in .NET applications.
-
-## Technologies Used
-
-- .NET Core / .NET 6
-- ASP.NET Core Web API
-- Minimal APIs
-- Entity Framework Core (for database interactions)
-- JSON Web Tokens (JWT) for authentication
-- Swagger/OpenAPI for API documentation
-- Refit for the client SDK
 
 ## Installation
 
